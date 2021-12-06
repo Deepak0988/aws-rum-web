@@ -83,7 +83,3 @@ jobs:
                npm run integ:local:edge
                npm run integ:local:chrome
                npm run integ:local:firefox
-               
-               
-               
-               
